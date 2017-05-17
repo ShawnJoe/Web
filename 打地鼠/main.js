@@ -48,7 +48,7 @@ function clearMouse() {
 }
 function hit(id) {
 	if(playing == false) {
-		alert("请点击开始资源");
+		alert("请点击开始游戏");
 		return;
 	} else {
 		beat += 1;
